@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.name {
+    font-family: "Grechen Fuemen", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 10px;
+  }
+.container{
+    display: flex;
+    background-color: rgb(199, 199, 199);
+    gap: 30px;
+}
+.home{
+    text-align:justify;
+    color: rgb(118, 118, 118);
+    padding-top: 12px;
+    word-spacing: 20px;
+}
+.button{
+    text-align:justify;
+    background-color: rgb(136, 137, 137);
+    color: rgb(118, 118, 118);
+    height: 70px;
+    width: 100px;
+    
+}
+.mau{
+    color: black;
+}
